@@ -5,6 +5,7 @@
 📝 Blog: [carlosganoza.com](https://carlosganoza.com)
 
 ---
+Experienced in leading organizational cybersecurity strategy across Risk Management, AppSec, Offensive Security and Culture, and I still enjoy getting my hands dirty in the technical work. Open source contributor and OWASP Lima Chapter Leader.
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
